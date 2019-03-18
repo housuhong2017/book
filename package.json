@@ -5,24 +5,36 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 0"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 89a3fca3da075660b901cb505bd207157dbbc970
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/housuhong2017/book.git"
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 89a3fca3da075660b901cb505bd207157dbbc970
     },
     "author": "housuhong2017",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/housuhong2017/book/issues"
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 89a3fca3da075660b901cb505bd207157dbbc970
     },
     "homepage": "https://github.com/housuhong2017/book#readme",
     "devDependencies": {
         "gitbook-cli": "^2.3.2"
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 89a3fca3da075660b901cb505bd207157dbbc970
 }
